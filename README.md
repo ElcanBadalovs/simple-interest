@@ -1,1 +1,1 @@
-# simple-interest
+# Simple Interest Calculation Script
